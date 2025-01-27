@@ -28,7 +28,7 @@ Make sure that you have installed
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Issam-AB/astra.git
+   git clone https://github.com/harshmriduhash/builder.git
    cd astra
    ```
 2. Install dependencies:
