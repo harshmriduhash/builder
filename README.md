@@ -1,13 +1,11 @@
 <h1 align="start">
-  Astra - AI Powered Website Builder
+  Builder - AI Powered Website Builder
 </h1>
-
-<img width="1280" alt="Astra Thumbnail" src="https://github.com/user-attachments/assets/8d11fc9c-8220-4d36-a0e3-271b73a7f23d">
 
 
 ## Introduction
 
-Astra is a modern, fully responsive website built with a powerful tech stack. This project showcases the use of Next.js for server-side rendering, TailwindCSS for sleek styling, shadcn UI for elegant components, and Clerk for secure authentication.
+It's a modern, fully responsive website built with a powerful tech stack. This project showcases the use of Next.js for server-side rendering, TailwindCSS for sleek styling, shadcn UI for elegant components, and Clerk for secure authentication.
 
 ## Tech Stack
 
